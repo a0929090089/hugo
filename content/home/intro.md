@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title:許玉貞
+title: 玉貞
 
 subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
 
